@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SantoshPhaiju
-- 👀 I’m interested in coding and Web Development.
-- 🌱 I’m currently learning Nextjs with the backend and MongoDB database.
-- 💞️ I’m seeking better opportunities inside Kathmandu Valley for web dev projects.
-- 📫 How to reach me by email at santoshphaiju@gmail.com.
+- 👀 I’m interested in Business, Technology and Web App Development.
+- 🌱 I’m currently learning Full Stack Web Development.
+- 💞️ I’m seeking better opportunities inside Kathmandu Valley for Full Stack Development.
+- 📫 How to reach me by emailing at santoshphaiju@gmail.com.
 
 <!---
 SantoshPhaiju/SantoshPhaiju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
