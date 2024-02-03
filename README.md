@@ -19,8 +19,13 @@
 
 - ⚡ Fun fact **I love bikes 😎**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/santosh phaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="santosh phaiju" height="30" width="40" /></a>
 <a href="https://twitter.com/santoshphaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoshphaiju" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santosh phaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh phaiju" height="30" width="40" /></a>
 <a href="https://fb.com/santosh phaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh phaiju" height="30" width="40" /></a>
