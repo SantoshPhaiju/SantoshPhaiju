@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SantoshPhaiju
 - 👀 I’m interested in Business, Technology and Web App Development.
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 I’m currently learning Advance Full Stack Web Development.
 - 💞️ I’m seeking better opportunities inside Kathmandu Valley for Full Stack Development.
 - 📫 How to reach me by emailing at santoshphaiju@gmail.com.
 
