@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/santoshphaiju" target="blank"><img src="https://img.shields.io/twitter/follow/santoshphaiju?logo=twitter&style=for-the-badge" alt="santoshphaiju" /></a> </p>
 
-- 🔭 I’m currently working on **OneLink**
+- 🔭 I’m currently working on <a href="https://krofile.netlify.app/@passagetoindia" target="_blank">**KROFILE**</a>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Shadcn**
 
-- 💬 Ask me about **React, Nextjs, Backend**
+- 💬 Ask me about **React, Nextjs, Node, Express, MongoDB, PHP, JavaScript, MySQL**
 
 - 📫 How to reach me **santoshphaiju@gmail.com**
 
