@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on <a href="https://krofile.netlify.app/@passagetoindia" target="_blank">**KROFILE**</a>
 
-- 🌱 I’m currently learning **Shadcn**
+- 🌱 I’m currently learning **Advance Backend And Database**
 
-- 💬 Ask me about **React, Nextjs, Node, Express, MongoDB, PHP, JavaScript, MySQL**
+- 💬 Ask me about **React, Nextjs, Node, Express, MongoDB, PHP, JavaScript, MySQL, C Langugage**
 
 - 📫 How to reach me **santoshphaiju@gmail.com**
 
