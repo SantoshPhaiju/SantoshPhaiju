@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on <a href="https://krofile.netlify.app/@passagetoindia" target="_blank">**KROFILE**</a>
 
-- 🌱 I’m currently learning **Advance Backend And Database**
+- 🌱 I’m currently learning **JAVA & DSA**
 
 - 💬 Ask me about **React, Nextjs, Node, Express, MongoDB, PHP, JavaScript, MySQL, C Langugage**
 
 - 📫 How to reach me **santoshphaiju@gmail.com**
 
-- ⚡ Fun fact **I love bikes 😎**
+- ⚡ Fun fact **Fluent in programming languages, still debugging my English. 😅**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
