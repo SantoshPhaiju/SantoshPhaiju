@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/santoshphaiju" target="blank"><img src="https://img.shields.io/twitter/follow/santoshphaiju?logo=twitter&style=for-the-badge" alt="santoshphaiju" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://krofile.com/" target="_blank">**KROFILE**</a>
+- 🔭 I’m currently working on <a href="https://krofile.com/" target="_blank">**Company's Project && 4TH SEM COLLEGE PROJECT**</a>
 
 - 🌱 I’m currently learning **JAVA & DSA**
 
