@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JAVA & DSA**
 
-- 💬 Ask me about **React, Nextjs, Node, Express, MongoDB, PHP, JavaScript, MySQL, C Langugage, JAVA**
+- 💬 Ask me about **React, Nextjs, Nestjs, Node, Express, MongoDB, PHP, JavaScript, MySQL, C Langugage, JAVA**
 
 - 📫 How to reach me **santoshphaiju@gmail.com**
 
