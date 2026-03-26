@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 
 <h1 align="center">Hi 👋, I'm Santosh Phaiju 😎</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on <a href="https://krofile.com/" target="_blank">**KROFILE**</a> **&& 4TH SEM COLLEGE PROJECT**
 
-- 🌱 I’m currently learning **JAVA & DSA**
+- 🌱 Building scalable backend systems using **Node.js, Reactjs, Next.js, Nestjs, Expressjs, MongoDB & PostgreSQL**
 
 - 💬 Ask me about **React, Nextjs, Nestjs, Node, Express, MongoDB, PHP, JavaScript, MySQL, C Langugage, JAVA**
 
@@ -19,17 +19,13 @@
 
 - ⚡ Fun fact **Fluent in programming languages, still debugging my English. 😅**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/santosh phaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="santosh phaiju" height="30" width="40" /></a>
+<a href="https://dev.to/santoshphaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="santosh phaiju" height="30" width="40" /></a>
 <a href="https://twitter.com/santoshphaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoshphaiju" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santosh phaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh phaiju" height="30" width="40" /></a>
-<a href="https://fb.com/santosh phaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh phaiju" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/santosh phaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santosh phaiju" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santoshphaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh phaiju" height="30" width="40" /></a>
+<a href="https://fb.com/santoshphaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh phaiju" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/santoshphaiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santosh phaiju" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
