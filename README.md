@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/santoshphaiju" target="blank"><img src="https://img.shields.io/twitter/follow/santoshphaiju?logo=twitter&style=for-the-badge" alt="santoshphaiju" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://krofile.com/" target="_blank">**KROFILE**</a> **&& 4TH SEM COLLEGE PROJECT**
+- 🔭 I’m currently working on <a href="https://krofile.com/" target="_blank">**KROFILE**</a>
 
 - 🌱 Building scalable backend systems using **Node.js, Reactjs, Next.js, Nestjs, Expressjs, MongoDB & PostgreSQL**
 
